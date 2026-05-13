@@ -42,11 +42,15 @@ Los resultados mostraron patrones producidas por la columna potencia, demostraro
 y la eficiencia energetica. Todo menos la temperatura, se denoto que la temperatura si estuviera baja o alta, de todas
 formas fallaba. Esto es importante, pues, esto indicaria una falta de mantenimiento en vez de sobrecalentamiento.
 <img width="1905" height="989" alt="image" src="https://github.com/user-attachments/assets/04836b82-31c6-4b5a-a65c-113d78303d0a" />
-
+<img width="1699" height="911" alt="image" src="https://github.com/user-attachments/assets/fc8c747c-38c9-42dc-98c2-1f1ba5119cb5" />
 
 Segun el analisis que se logro hacer gracias a los datos reales de la tabla y una visualizacion que detecto un patron
 Se llego a la dicha que la potencia Kw puede ser un problema si este no se le da un mantenimiento adecuado.
 
+<img width="1680" height="883" alt="image" src="https://github.com/user-attachments/assets/e02e820e-0b03-472a-b0c8-d86ac94e430c" />
+
+#Datos mensuales
+<img width="1622" height="867" alt="image" src="https://github.com/user-attachments/assets/37f988c6-27f2-416b-92e7-5d7f2c5c010b" />
 
 Nuestra evidencia se dicta que, al calentarse aparatos de 4 Kw hacia abajo, no presentan un riesgo, siempre y cuando 
 los materiales sean capaz de resistir el golpe de temperatura.
