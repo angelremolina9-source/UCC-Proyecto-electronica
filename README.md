@@ -18,6 +18,12 @@ Se nos proporciono  una libreria CSV de un conjunto de 1000 registros de operaci
 El objetivo es identificar y aplicar el ser, saber y hacer sobre estas herramientas, nos piden hallar patrones de
 consumo, fallas y ausencia de autocorrelacion.
 
+Esto es ausencia de autocorrelacion:
+<img width="1898" height="1029" alt="image" src="https://github.com/user-attachments/assets/ba6da628-0ce4-49bf-9a8d-c0c7641576d0" />
+Significa que al no tener datos lineales que sean una causa logica por la que dependan datos, significa que tienen
+una relacion. En cambio, datos como el numero de fallas durante la temperatura, no son tan importantes, ya que fallan
+no por temperatura, si no por mantenimiento, esto puede ser drivers de seguridad, manejo de operacion o falla operacional, entre otros... .
+
 Antes de empezar, se debe leer la serie de preguntas que nos piden, con eso podemos hacer una ruta para el camino mas 
 visible en vez de ir a ciegas. Segun sigamos avanzando y encontrando tablas relacionadas, veremos patrones.
 Procesaremos los datos en Python, por lo que agregamos Pandas, insertamos la variable "datos" como la caja para 
