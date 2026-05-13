@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3e4b34ca-1f38-4f88-810d-d7af8047022f" /># UCC-Proyecto-electronica
+# UCC-Proyecto-electronica
 Tema: Análisis de eficiencia energética y comportamiento operativo de sistemas electrónicos.
 Escenario / contexto del problema:
 Una empresa industrial ha instalado sensores en sus sistemas electrónicos para monitorear
@@ -41,6 +41,8 @@ estamos embarcando.
 Los resultados mostraron patrones producidas por la columna potencia, demostraron tener una causa-efecto para las fallas
 y la eficiencia energetica. Todo menos la temperatura, se denoto que la temperatura si estuviera baja o alta, de todas
 formas fallaba. Esto es importante, pues, esto indicaria una falta de mantenimiento en vez de sobrecalentamiento.
+<img width="1905" height="989" alt="image" src="https://github.com/user-attachments/assets/04836b82-31c6-4b5a-a65c-113d78303d0a" />
+
 
 Segun el analisis que se logro hacer gracias a los datos reales de la tabla y una visualizacion que detecto un patron
 Se llego a la dicha que la potencia Kw puede ser un problema si este no se le da un mantenimiento adecuado.
